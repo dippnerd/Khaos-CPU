@@ -114,3 +114,12 @@ I chose the name Khaos for this processor, as it represents the Greek deity by t
     - This will ADD the values stored in GPRs 2 and 3, and store the results into GPR 4.
   - **AND $3, $2, $0**
     - This will do an AND compare of the GPR 2 with the GPR 0, which always returns 0, and stores the results into GPR 3.
+
+
+
+### Images
+* [Main](main.gif)
+* [ALU](alu.gif)
+* [Control Unit](controlunit.gif)
+* [Program Counter](progcounter.gif)
+* [Register File](regfile.gif)
