@@ -1,6 +1,6 @@
 # 16-bit Harvard RISC Processor (Khaos)
-## By Aaron Dippner
-### 4/10/08
+### By Aaron Dippner
+#### 4/10/08
 
 This document is a complete explanation on the 16-bit Harvard RISC processor that I have designed. In this document I will give tables and detailed descriptions on the instruction set architecture, how it is laid out, the complete register set, how the processor works along with other details about the architecture. I will also give some basic examples of how to use the assembler that has been designed to go along with programming for this processor. By the end of this document, it should be easily understandable what makes this processor useful for general purpose programming.
 
